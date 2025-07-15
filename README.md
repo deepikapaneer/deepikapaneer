@@ -10,26 +10,26 @@
 #### Backend & APIs  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000?&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?&logo=postgresql&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-000000?&logo=flask&logoColor=white)
 
-#### ⚙️ DevOps & CI/CD  
+#### DevOps & CI/CD  
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?&logo=render&logoColor=black) ![Railway](https://img.shields.io/badge/-Railway-000?&logo=railway&logoColor=white)
 
 
-#### 🛠️ Dev Tools & Platforms
+#### Dev Tools & Platforms
 - ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 📖 About Me
 
-- 🎨 I'm deeply passionate about crafting pixel-perfect, responsive UIs.
-- 🔄 I bridge the gap between design and development.
-- 💼 I specialize in JAMstack architecture using **Next.js + headless CMS + Vercel**.
-- 🎯 I believe performance and accessibility are just as important as aesthetics.
-- 🧠 Currently learning more about GraphQL, tRPC, and Astro.
+- I'm deeply passionate about crafting pixel-perfect, responsive UIs.
+- I bridge the gap between design and development.
+- I specialize in JAMstack architecture using **Next.js + headless CMS + Vercel**.
+- I believe performance and accessibility are just as important as aesthetics.
+- Currently learning more about GraphQL, tRPC, and Astro.
 
 ---
 
-### 📫 How to Reach Me
+### How to Reach Me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepika)
