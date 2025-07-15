@@ -7,8 +7,7 @@
 ### 🚀 My Favorite Technologies & Tools
 
 #### 🖼️ Frontend & Frameworks
-- ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-- ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js) ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
 - ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?&logo=tailwind-css&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=typescript&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
@@ -38,13 +37,6 @@
 - 💼 I specialize in JAMstack architecture using **Next.js + headless CMS + Vercel**.
 - 🎯 I believe performance and accessibility are just as important as aesthetics.
 - 🧠 Currently learning more about GraphQL, tRPC, and Astro.
-
----
-
-### 📊 GitHub Analytics
-
-![Deepika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepikapaneerselvam&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepikapaneerselvam&layout=compact&theme=radical)
 
 ---
 
