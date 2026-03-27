@@ -43,6 +43,8 @@
 | [aws-kinesis-data-pipeline](https://github.com/deepikapaneer/pythonproject2) | Real-time data processing pipeline | AWS Kinesis, Lambda, DynamoDB, Python |
 | [ACS730-Terraform-Infrastructure](https://github.com/deepikapaneer/ACS730-NBB-FinalProject-Terraform) | Multi-tier AWS infrastructure with IaC | Terraform, Ansible, AWS |
 | [react-flask-crud-docker](https://github.com/deepikapaneer/react-flask-crud-docker) | Containerized full-stack app with CI/CD | Docker, Flask, React, GitHub Actions |
+| [cicd-project](https://github.com/deepikapaneer/cicd-project) | Automated CI/CD pipeline with testing | GitHub Actions, Docker, Flask |
+| [docker-multiservice](https://github.com/deepikapaneer/docker-multiservice) | 3-tier portfolio app with live GitHub API | Docker Compose, nginx, PostgreSQL |
 
 ---
 
